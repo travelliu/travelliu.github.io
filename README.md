@@ -1,3 +1,4 @@
-#Travel.Liu blog
+#SixKarma blog
 
-###[View Blog &rarr;](http://travelliu.github.io)
+###[View Blog &rarr;](http://sixkarma.github.io)
+
